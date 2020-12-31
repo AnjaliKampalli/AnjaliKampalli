@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m upcoming Application Developer in ThoughtWorks
-- 🌱 I’m currently learning Front end Development
+- 🔭 I’m Application Developer in ThoughtWorks
+- 🌱 
 - 📫 How to reach me: anjalikampalli@gmail.com
 
